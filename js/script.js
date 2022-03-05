@@ -1,8 +1,8 @@
 "use strict";
 
-alert('hello');
+// alert('hello');
 
-const result = confirm('Are you here?');
+// const result = confirm('Are you here?');
 //console.log (result);
 
 //const answer = prompt('Are you 18?', '');
