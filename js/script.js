@@ -91,4 +91,66 @@
 //     console.log (5);
 // }
 
+// let num = 20;
+
+// function showFirstMessage(text) {
+//     console.log(text);
+//     num = 10;
+// }
+
+// showFirstMessage('hello');
+
+// function calc (a, b) {
+//     return a+b;
+// }
+
+// console.log(calc(4, 3));
+// console.log(calc(5, 6));
+// console.log(calc(10, 6));
+
+// function ret() {
+//     let num = 50;
+//     return num;
+// }
+
+// const anotherNum = ret();
+// console.log(anotherNum);
+
+// const logger = function() {
+//     console.log(666);
+// };
+
+// logger();
+
+// const calc = (a, b) => {
+//     console.log('1');
+//     return a + b ;
+// };
+
+// const str = 'test';
+
+
+ // console.log(str[2] = 'd');
+
+// console.log(str.toUpperCase());
+// console.log(str.toLowerCase());
+
+// const fruit = 'Some fruit';
+
+// console.log(fruit.indexOf('fruit'));
+
+// const logg = 'hello world';
+
+// console.log(logg.slice(-1));
+
+// console.log(logg.substring());
+
+// const num = 12.2;
+
+// console.log(Math.round(12.6));
+
+// const test = '12.7px';
+// console.log(parseInt(test));
+// console.log(parseFloat(test));
+
 
